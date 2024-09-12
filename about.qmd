@@ -3,3 +3,6 @@ title: "About"
 ---
 
 About this site
+
+Quarto create Project <project-name>
+Creates a new project
